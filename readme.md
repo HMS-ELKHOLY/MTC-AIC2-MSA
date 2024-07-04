@@ -1,5 +1,5 @@
 Egyptian Dialect Voice Recognition Project Documentation
-
+kindly download checkpoint model from this link https://drive.google.com/file/d/1mXyiF2xxKwBGjJF0y6O5xQxN3EEWADMo/view?usp=sharing
 **Project Overview:**
 
 This project focuses on developing a machine learning model capable of recognizing and classifying Egyptian dialect voice recordings. The model is trained on audio files with corresponding transcripts using a convolutional neural network (CNN). The primary goal is to accurately transcribe spoken words and phrases in the Egyptian dialect.
