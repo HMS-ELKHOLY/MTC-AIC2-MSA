@@ -67,7 +67,7 @@ The training process involves fitting the model on the preprocessed training dat
 
 **Predictions**
 
-Once trained, the model is used to make predictions on the test dataset. The predicted transcripts are compared with the actual transcripts to evaluate the model's accuracy. The results are saved for further analysis.
+after trained, the model is used to make predictions on the test dataset. The predicted transcripts are compared with the actual transcripts to evaluate the model's accuracy. The results are saved for further analysis.
 
 **Saving the Model**
 
